@@ -15,7 +15,10 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="open_activity_blueprint.svg">
+   sodipodi:docname="open_activity_blueprint.svg"
+   inkscape:export-filename="../open_activity_blueprint.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs3">
     <pattern
@@ -198,19 +201,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid24157"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       units="mm"
-       spacingx="1mm"
-       spacingy="1mm"
-       dotted="true" />
     <sodipodi:guide
        orientation="0,1"
        position="478.34646,974.40945"
@@ -680,7 +672,7 @@
            x="81.455315"
            y="335.15805"
            style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-size:10px" /></flowRegion><flowPara
-         id="flowPara6251"></flowPara></flowRoot>    <g
+         id="flowPara6251" /></flowRoot>    <g
        id="g6843"
        transform="translate(-2.29104e-5,58.308356)">
       <g
@@ -777,7 +769,7 @@
            x="77.01931"
            y="143.81961"
            style="font-size:20px" /></flowRegion><flowPara
-         id="flowPara6878"></flowPara></flowRoot>    <flowRoot
+         id="flowPara6878" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6882"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion

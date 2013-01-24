@@ -15,7 +15,10 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="participation_matrix.svg">
+   sodipodi:docname="process_participation_matrix.svg"
+   inkscape:export-filename="../process_participation_matrix.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs3">
     <clipPath
@@ -139,9 +142,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52885527"
-     inkscape:cx="515.97667"
-     inkscape:cy="542.37763"
+     inkscape:zoom="0.45991771"
+     inkscape:cx="744.09448"
+     inkscape:cy="526.18109"
      inkscape:current-layer="layer3"
      showgrid="true"
      units="mm"
@@ -150,19 +153,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid24157"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       units="mm"
-       spacingx="1mm"
-       spacingy="1mm"
-       dotted="true" />
     <sodipodi:guide
        orientation="0,1"
        position="478.34646,974.40945"

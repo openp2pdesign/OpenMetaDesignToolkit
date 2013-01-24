@@ -15,7 +15,10 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="open_activity_storyboard.svg">
+   sodipodi:docname="open_activity_storyboard.svg"
+   inkscape:export-filename="../open_activity_storyboard.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs3">
     <pattern
@@ -187,9 +190,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42597985"
-     inkscape:cx="671.86831"
-     inkscape:cy="510.84658"
+     inkscape:zoom="0.45991771"
+     inkscape:cx="744.09448"
+     inkscape:cy="526.18109"
      inkscape:current-layer="layer4"
      showgrid="true"
      units="mm"
@@ -198,19 +201,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid24157"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       units="mm"
-       spacingx="1mm"
-       spacingy="1mm"
-       dotted="true" />
     <sodipodi:guide
        orientation="0,1"
        position="478.34646,974.40945"
@@ -678,7 +670,7 @@
            x="81.455315"
            y="335.15805"
            style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-size:10px" /></flowRegion><flowPara
-         id="flowPara6251"></flowPara></flowRoot>    <rect
+         id="flowPara6251" /></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect6189"
        width="301.18109"

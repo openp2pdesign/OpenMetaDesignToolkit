@@ -15,7 +15,10 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="open_activity_system_map.svg">
+   sodipodi:docname="open_activity_system_map.svg"
+   inkscape:export-filename="../open_activity_system_map.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
   <defs
      id="defs3">
     <marker
@@ -204,30 +207,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34002314"
-     inkscape:cx="615.80288"
-     inkscape:cy="590.48459"
+     inkscape:zoom="0.45991771"
+     inkscape:cx="744.09448"
+     inkscape:cy="526.18109"
      inkscape:current-layer="layer3"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1440"
-     inkscape:window-height="795"
+     inkscape:window-width="1280"
+     inkscape:window-height="702"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid24157"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       units="mm"
-       spacingx="1mm"
-       spacingy="1mm"
-       dotted="true" />
     <sodipodi:guide
        orientation="0,1"
        position="478.34646,974.40945"
@@ -654,7 +646,7 @@
        id="rect5744"
        width="363.79388"
        height="215.58156"
-       x="68.536324"
+       x="48.536324"
        y="715.74799" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:7.08661417;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -665,7 +657,7 @@
        y="255.11809" />
     <g
        id="g5890"
-       transform="translate(-0.79873676,-9.2977834)">
+       transform="translate(-20.798737,-9.2977834)">
       <path
          inkscape:connector-curvature="0"
          id="path4112"
