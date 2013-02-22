@@ -9,11 +9,19 @@ Instructions
 1. Install the Titillium font (you can find it in the *resources/fonts* folder)
 2. If you don't have a vector drawing software, install the open source software [Inkscape](http://www.inkscape.org) for editing the source files in the .svg file format
 3. Add the *metadesign* folder to your open projects folder
-4. Start editing the *process_participation_matrix.svg* file, designing the whole design process
-5. In the *source* directory, choose the files that you want to include in your *metadesign* folder, edit them, export the files as .png in the main *metadesign* folder, and delete the others
+4. Start editing the *process_participation_matrix.svg* file first, designing the whole design process
+5. In the *source* directory, choose the other files that you want to include in your *metadesign* folder, edit them, export the files as .png in the main *metadesign* folder, and delete the others
 6. You can create comics for the storyboard by using the *storyboard_generator* software in the *resources/storyboard_generator* folder
 7. You can find open source icons under the folder *resources/icons* for your System Map
 
+
+Include the toolkit on your GitHub project
+------------------------------------------
+You can download the toolkit and copy on your project folder, or you can fork the toolkit to a new repository for your account, rename it and start developing your project.
+
+1. Go to [https://github.com/OpenP2PDesignOrg/OpenMetaDesignToolkit(https://github.com/](OpenP2PDesignOrg/OpenMetaDesignToolkit) and click on **Fork**
+2. Then go to your new forked repository on GitHub, and click on **Settings**
+3. Rename your repository and edit its description, this will be your new repository with the Open MetaDesign toolkit already included!
 
 License
 --------
