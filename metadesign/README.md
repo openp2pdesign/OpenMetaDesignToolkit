@@ -10,7 +10,7 @@ Instructions
 2. If you don't have a vector drawing software, install the open source software [Inkscape](http://www.inkscape.org) for editing the source files in the .svg file format
 3. Add the *metadesign* folder to your open projects folder
 4. Start editing the *process_participation_matrix.svg* file, designing the whole design process
-5. Choose the tools that you want to include in your *metadesign* folder, edit them, export the files as .png in the main *metadesign* folder, and delete the others
+5. In the *source* directory, choose the files that you want to include in your *metadesign* folder, edit them, export the files as .png in the main *metadesign* folder, and delete the others
 6. You can create comics for the storyboard by using the *storyboard_generator* software in the *resources/storyboard_generator* folder
 7. You can find open source icons under the folder *resources/icons* for your System Map
 
