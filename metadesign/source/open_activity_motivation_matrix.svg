@@ -142,14 +142,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45991771"
-     inkscape:cx="471.21958"
-     inkscape:cy="526.18109"
+     inkscape:zoom="1.6413038"
+     inkscape:cx="702.29955"
+     inkscape:cy="790.35878"
      inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="702"
+     inkscape:window-width="2560"
+     inkscape:window-height="1335"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -209,7 +209,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -628,69 +628,6 @@
        inkscape:tile-cy="207.09656"
        inkscape:tile-w="70.508339"
        inkscape:tile-h="70.508339" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect22220"
-       width="17.716536"
-       height="17.716536"
-       x="530.04718"
-       y="188.59465"
-       inkscape:tile-x0="124.01575"
-       inkscape:tile-y0="166.53542" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="532.47168"
-       y="201.41292"
-       id="text22222"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan22224"
-         x="532.47168"
-         y="201.41292"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Heavy">40</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       id="rect22218"
-       width="17.716536"
-       height="17.716536"
-       x="554.85034"
-       y="163.7915"
-       inkscape:tile-x0="124.01575"
-       inkscape:tile-y0="166.53542" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text22230"
-       y="176.60977"
-       x="557.27484"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       xml:space="preserve"><tspan
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Heavy"
-         y="176.60977"
-         x="557.27484"
-         id="tspan22232"
-         sodipodi:role="line">40</tspan></text>
-    <rect
-       inkscape:tile-y0="166.53542"
-       inkscape:tile-x0="124.01575"
-       y="163.7915"
-       x="554.85034"
-       height="17.716536"
-       width="17.716536"
-       id="rect22761"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="557.27484"
-       y="176.60977"
-       id="text22763"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan22765"
-         x="557.27484"
-         y="176.60977"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Heavy">40</tspan></text>
     <rect
        inkscape:tile-y0="166.53542"
        inkscape:tile-x0="124.01575"
