@@ -30,6 +30,3 @@ License
 The Business Model Canvas was originally developed by [BusinesModelGeneration.com](http://www.businessmodelgeneration.com) and released under a [CC-BY-SA license](http://creativecommons.org/licenses/by-sa/2.0/)
 
 The [Titillium](http://www.fontsquirrel.com/fonts/TitilliumText) font is licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL)
-
-The [JustVector](http://www.alexpeattie.com/projects/justvector_icons/) icons are released under a [Free Art license](http://artlibre.org/).
- 
