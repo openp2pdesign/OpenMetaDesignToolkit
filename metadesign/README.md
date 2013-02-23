@@ -27,11 +27,11 @@ License
 --------
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
-The Business Model Canvas was originally developed by [BusinesModelGeneration.com](http://www.businessmodelgeneration.com) and released under a CC-BY-SA license
+The Business Model Canvas was originally developed by [BusinesModelGeneration.com](http://www.businessmodelgeneration.com) and released under a [CC-BY-SA license](http://creativecommons.org/licenses/by-sa/2.0/)
 
-The Storyboard Generator was originally developed as StripThis! by [Kesiev.com](http://www.kesiev.com/stripthis/) and released under MIT/GPL 2
+The Storyboard Generator was originally developed as StripThis! by [Kesiev.com](http://www.kesiev.com/stripthis/) and released under [MIT](http://opensource.org/licenses/MIT)/[GPL 2](http://www.gnu.org/licenses/gpl-2.0.html)
 
-The [Titillium](http://www.fontsquirrel.com/fonts/TitilliumText) font is licensed under the SIL Open Font License, Version 1.1.
+The [Titillium](http://www.fontsquirrel.com/fonts/TitilliumText) font is licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL)
 
-The [JustVector](http://www.alexpeattie.com/projects/justvector_icons/) icons are released under a Free Art license.
+The [JustVector](http://www.alexpeattie.com/projects/justvector_icons/) icons are released under a [Free Art license](http://artlibre.org/).
  
