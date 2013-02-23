@@ -1,5 +1,5 @@
-OpenMetaDesignToolkit
-=====================
+Open MetaDesign Toolkit
+=======================
 
 An open and digital toolkit for developing the metadesign (the design of the design process and system) of the collaboration and community of Open projects.
 
