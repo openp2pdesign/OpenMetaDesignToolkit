@@ -17,7 +17,7 @@ Instructions
 
 Include the toolkit on your GitHub project
 ------------------------------------------
-You can download the toolkit and copy on your project folder (and **this is the best way of including the toolkit in your project***), or you can do a little hack and fork the toolkit to a new repository for your account, rename it and start developing your project.
+You can download the toolkit and copy on your project folder (and **this is the best way of including the toolkit in your project**), or you can do a little hack and fork the toolkit to a new repository for your account, rename it and start developing your project.
 
 1. Go to [https://github.com/OpenP2PDesignOrg/OpenMetaDesignToolkit](https://github.com/](OpenP2PDesignOrg/OpenMetaDesignToolkit) and click on **Fork**
 2. Then go to your new forked repository on GitHub, and click on **Settings**
