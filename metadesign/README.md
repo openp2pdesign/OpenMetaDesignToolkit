@@ -32,4 +32,6 @@ The Business Model Canvas was originally developed by [BusinesModelGeneration.co
 The Storyboard Generator was originally developed as StripThis! by [Kesiev.com](http://www.kesiev.com/stripthis/) and released under MIT/GPL 2
 
 The [Titillium](http://www.fontsquirrel.com/fonts/TitilliumText) font is licensed under the SIL Open Font License, Version 1.1.
+
+The [JustVector](http://www.alexpeattie.com/projects/justvector_icons/) icons are released under a Free Art license.
  
