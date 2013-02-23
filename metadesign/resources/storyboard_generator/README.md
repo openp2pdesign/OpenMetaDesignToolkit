@@ -1,9 +1,1 @@
-Storyboard Generator
-====================
-
-Here you can find the **Storyboard Generator**, just open the *index.html* file, write the story into the form, edit it, generate the comic and save the image for the storyboard with a screenshot. 
-
-The **Storyboard Generator** is a slightly modified version of [Stripthis! 0.1](http://www.kesiev.com/stripthis/) an open source javascript library that transforms text into webcomics. For more information about the library and how to use it, check its own website.
-
-Inside the *libs/stencils-community.js* file we can create a custom character for each of the participants in the community (but it is not necessary). Just copy one of the existing characters and edit it; have a look at the other .js files for inspiration and in the *cels* folder for the existing components you can use for building your character.
-
+A great for generating comics for the storyboard is StripThis! and is available for download at [http://www.kesiev.com/stripthis/] (http://www.kesiev.com/stripthis/)
