@@ -6,7 +6,7 @@ An open and digital toolkit for developing the metadesign (the design of the des
 Instructions
 ------------
 
-1. Install the Titillium font (you can find it in the **resources/fonts** folder)
+1. Install the *Titillium* font (you can find it in the **resources/fonts** folder)
 2. If you don't have a vector drawing software, install the open source software [Inkscape](http://www.inkscape.org) for editing the source files in the .svg file format
 3. Add the **metadesign** folder to your open projects folder
 4. Go to the **source** directory and edit the files there
