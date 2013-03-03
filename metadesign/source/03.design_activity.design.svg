@@ -15,8 +15,8 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="community_activity_analysis.svg"
-   inkscape:export-filename="../community_activity_analysis.png"
+   sodipodi:docname="03.design_activity.design.svg"
+   inkscape:export-filename="../03.design_activity.design.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
   <defs
@@ -665,11 +665,11 @@
      inkscape:zoom="0.45991771"
      inkscape:cx="744.09448"
      inkscape:cy="526.18109"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="702"
+     inkscape:window-width="1440"
+     inkscape:window-height="795"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -712,7 +712,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -974,7 +974,7 @@
          sodipodi:role="line"
          id="tspan24380"
          x="494.02298"
-         y="77.952705">Community Activity Analysis</tspan></text>
+         y="77.952705">Open Activity Design</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text25202"
@@ -1372,7 +1372,7 @@
            height="102.94588"
            x="361.60388"
            y="186.37517" /></flowRegion><flowPara
-         id="flowPara18274">Add here physical objects and systems of symbols (like language, knowledge, expertise) that the subject needs to use in order to carry out the activity we are analysing.</flowPara></flowRoot>    <rect
+         id="flowPara18274">Add here physical objects and systems of symbols (like language, knowledge, expertise) that the subject needs to use in order to carry out the activity we are designing.</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect18276"
        width="199.51535"
@@ -1394,14 +1394,17 @@
        transform="translate(-122.02946,290.634)"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
        id="flowRoot18282"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       inkscape:export-filename="../open_activity_design.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><flowRegion
          id="flowRegion18284"><rect
            y="186.37517"
            x="361.60388"
            height="102.94588"
            width="189.85498"
            id="rect18286" /></flowRegion><flowPara
-         id="flowPara18288">Add here the person or the people engaged in the activity we are analysing and who are the focus of our analysis. This is the point of view used to focus on the activity.</flowPara></flowRoot>    <rect
+         id="flowPara18288">Add here the person or the people engaged in the activity we are designing and who are the focus of our project. This is the point of view used to focus on the activity.</flowPara></flowRoot>    <rect
        y="704.67993"
        x="172.77422"
        height="126.47848"
@@ -1430,7 +1433,7 @@
            height="102.94588"
            x="361.60388"
            y="186.37517" /></flowRegion><flowPara
-         id="flowPara18302">Add here the laws, codes, conventions, customs and agreements that the subject adheres to while engaging in the activity we are analysing.</flowPara></flowRoot>    <rect
+         id="flowPara18302">Add here the laws, codes, conventions, customs and agreements that the subject adheres to while engaging in the activity we are designing.</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect18304"
        width="199.51535"
@@ -1459,7 +1462,7 @@
            height="102.94588"
            width="189.85498"
            id="rect18314" /></flowRegion><flowPara
-         id="flowPara18316">Add here the people and groups with whom the subject is interacting in the activity and whose knowledge, interests, stakes and goals shape the activity we are analysing.</flowPara></flowRoot>    <rect
+         id="flowPara18316">Add here the people and groups with whom the subject is interacting in the activity and whose knowledge, interests, stakes and goals shape the activity we are designing.</flowPara></flowRoot>    <rect
        y="704.67993"
        x="836.49066"
        height="126.47848"
@@ -1488,7 +1491,7 @@
            height="102.94588"
            x="361.60388"
            y="186.37517" /></flowRegion><flowPara
-         id="flowPara18330">Add here how the work in the activity is divided among the participants in the activity we are analysing.</flowPara></flowRoot>    <rect
+         id="flowPara18330">Add here how the work in the activity is divided among the participants in the activity we are designing.</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect18332"
        width="199.51535"
@@ -1517,7 +1520,7 @@
            height="102.94588"
            width="189.85498"
            id="rect18342" /></flowRegion><flowPara
-         id="flowPara18344">Add here the purposes and reasons for the subject to carry out the activity we are analysing.</flowPara></flowRoot>    <rect
+         id="flowPara18344">Add here the purposes and reasons for the subject to carry out the activity we are designing.</flowPara></flowRoot>    <rect
        y="458.01984"
        x="809.89935"
        height="126.47848"
@@ -1546,7 +1549,7 @@
            height="102.94588"
            x="361.60388"
            y="186.37517" /></flowRegion><flowPara
-         id="flowPara18358">Add here the object of the activity we are analysing.</flowPara></flowRoot>    <rect
+         id="flowPara18358">Add here the object of the activity we are designing.</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect18360"
        width="199.51535"
@@ -1575,7 +1578,7 @@
            height="102.94588"
            width="189.85498"
            id="rect18370" /></flowRegion><flowPara
-         id="flowPara18372">Add here the desired goals of the activity we are analysing.</flowPara></flowRoot>    <flowRoot
+         id="flowPara18372">Add here the desired goals of the activity we are designing.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot18254"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Signika;-inkscape-font-specification:Signika"><flowRegion
@@ -1586,5 +1589,5 @@
            x="76.726219"
            y="157.89595" /></flowRegion><flowPara
          id="flowPara18260"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L">Add here a description of the main activity of the community that we want to study.</flowPara></flowRoot>  </g>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L">Add here a description of the main activity of the community that we want to design and make open and collaborative.</flowPara></flowRoot>  </g>
 </svg>

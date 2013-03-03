@@ -15,8 +15,8 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="open_activity_motivation_matrix.svg"
-   inkscape:export-filename="../open_activity_motivation_matrix.png"
+   sodipodi:docname="03.design_motivation.matrix.svg"
+   inkscape:export-filename="../03.design_motivation.matrix.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
   <defs
@@ -142,14 +142,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6413038"
-     inkscape:cx="702.29955"
-     inkscape:cy="790.35878"
+     inkscape:zoom="0.54829032"
+     inkscape:cx="744.09448"
+     inkscape:cy="526.18109"
      inkscape:current-layer="layer2"
      showgrid="true"
      units="mm"
-     inkscape:window-width="2560"
-     inkscape:window-height="1335"
+     inkscape:window-width="1440"
+     inkscape:window-height="795"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -209,7 +209,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

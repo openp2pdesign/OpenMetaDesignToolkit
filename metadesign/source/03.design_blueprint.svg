@@ -15,8 +15,8 @@
    id="svg10067"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="open_activity_storyboard.svg"
-   inkscape:export-filename="../open_activity_storyboard.png"
+   sodipodi:docname="03.design_blueprint.svg"
+   inkscape:export-filename="../03.design_blueprint.png"
    inkscape:export-xdpi="200"
    inkscape:export-ydpi="200">
   <defs
@@ -196,8 +196,8 @@
      inkscape:current-layer="layer4"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="702"
+     inkscape:window-width="1440"
+     inkscape:window-height="795"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -248,7 +248,8 @@
      inkscape:label="Layout"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,2.988066e-5)">
+     transform="translate(0,2.988066e-5)"
+     sodipodi:insensitive="true">
     <a
        id="a24212"
        xlink:href="http://creativecommons.org/licenses/by-sa/3.0/"
@@ -502,7 +503,7 @@
          sodipodi:role="line"
          id="tspan3866"
          x="494.02298"
-         y="77.952705">Storyboard</tspan></text>
+         y="77.952705">Blueprint</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text25202"
@@ -514,13 +515,6 @@
          id="tspan25206"
          x="425.19684"
          y="77.952705">0.1</tspan></text>
-    <rect
-       style="fill:#f6f6f6;fill-opacity:1;stroke:#000000;stroke-width:1.79080713;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect25259"
-       width="1417.3228"
-       height="832.67719"
-       x="35.433071"
-       y="113.38577" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Semi-Bold"
@@ -589,6 +583,14 @@
        d="m 495.23917,1008.9293 c 232.33346,0 267.92856,0 267.92856,0"
        id="path25301"
        inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#f6f6f6;fill-opacity:1;stroke:#000000;stroke-width:1.79080713;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect25259"
+       width="1417.3228"
+       height="832.67719"
+       x="35.433071"
+       y="113.3858"
+       transform="translate(0,-2.988066e-5)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -657,8 +659,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Storyboard"
-     style="display:inline">
+     inkscape:label="Blueprint"
+     style="display:inline;opacity:0.82">
     <flowRoot
        xml:space="preserve"
        id="flowRoot6245"
@@ -670,300 +672,161 @@
            x="81.455315"
            y="335.15805"
            style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-size:10px" /></flowRegion><flowPara
-         id="flowPara6251" /></flowRoot>    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6189"
-       width="301.18109"
-       height="177.16536"
-       x="76.031464"
-       y="131.10233" />
-    <rect
-       y="131.10233"
-       x="421.01309"
-       height="177.16536"
-       width="301.18109"
-       id="rect6191"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6195"
-       width="301.18109"
-       height="177.16536"
-       x="765.99481"
-       y="131.10233" />
-    <rect
-       y="131.10233"
-       x="1110.9763"
-       height="177.16536"
-       width="301.18109"
-       id="rect6199"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       y="329.70078"
-       x="76.031464"
-       height="177.16536"
-       width="301.18109"
-       id="rect6227"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6229"
-       width="301.18109"
-       height="177.16536"
-       x="421.01309"
-       y="329.70078" />
-    <rect
-       y="329.70078"
-       x="765.99481"
-       height="177.16536"
-       width="301.18109"
-       id="rect6231"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6233"
-       width="301.18109"
-       height="177.16536"
-       x="1110.9763"
-       y="329.70078" />
+         id="flowPara6251" /></flowRoot>    <g
+       id="g6843"
+       transform="translate(-2.29104e-5,58.308356)">
+      <g
+         id="g6723">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:7.08661413000000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m 1417.3228,569.89798 -1346.456658,0"
+           id="path6512"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot6514"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+           transform="translate(52,57.03186)"><flowRegion
+             id="flowRegion6516"><rect
+               id="rect6518"
+               width="187.80231"
+               height="23.475288"
+               x="1223.0625"
+               y="481.91266"
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L" /></flowRegion><flowPara
+             id="flowPara6520">Line of visibility</flowPara></flowRoot>      </g>
+      <g
+         id="g6735">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6534"
+           d="m 1417.3228,745.15273 -1346.456658,0"
+           style="fill:none;stroke:#000000;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+        <flowRoot
+           transform="translate(-41.586875,232.28661)"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+           id="flowRoot6536"
+           xml:space="preserve"><flowRegion
+             id="flowRegion6538"><rect
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+               y="481.91266"
+               x="1223.0625"
+               height="36.981812"
+               width="236.84302"
+               id="rect6540" /></flowRegion><flowPara
+             id="flowPara6546">Line of internal interaction</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(0,76.458984)"
+         id="g6697">
+        <flowRoot
+           transform="translate(30.36625,-192.91024)"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+           id="flowRoot6526"
+           xml:space="preserve"><flowRegion
+             id="flowRegion6528"><rect
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+               y="481.91266"
+               x="1223.0625"
+               height="23.475288"
+               width="187.80231"
+               id="rect6530" /></flowRegion><flowPara
+             id="flowPara6544">Line of interaction</flowPara></flowRoot>        <path
+           transform="translate(0,2.988066e-5)"
+           style="fill:none;stroke:#000000;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="m 1417.3228,319.95585 -1346.456658,0"
+           id="path6570"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g6690">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.54330707000000000, 3.54330707000000000;stroke-dashoffset:0;display:inline"
+           d="m 1417.3228,221.95588 -1346.456658,0"
+           id="path6676"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot6678"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
+           transform="translate(80.507812,-290.91024)"><flowRegion
+             id="flowRegion6680"><rect
+               id="rect6682"
+               width="187.80231"
+               height="23.475288"
+               x="1223.0625"
+               y="481.91266"
+               style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L" /></flowRegion><flowPara
+             id="flowPara6688">Touchpoints</flowPara></flowRoot>      </g>
+    </g>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot6253"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-         id="flowRegion6255"><rect
-           id="rect6257"
-           width="290.72263"
-           height="166.88406"
-           x="80.793083"
-           y="334.49579"
-           style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara6473">Add a description of the picture here by editing this text...</flowPara></flowRoot>    <flowRoot
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L;text-anchor:start;text-align:start;writing-mode:lr"
-       id="flowRoot6261"
+       id="flowRoot6872"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:TitilliumText25L;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:TitilliumText25L;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion6874"><rect
+           id="rect6876"
+           width="162.59631"
+           height="121.23409"
+           x="77.01931"
+           y="143.81961"
+           style="font-size:20px" /></flowRegion><flowPara
+         id="flowPara6878" /></flowRoot>    <flowRoot
        xml:space="preserve"
-       transform="translate(344.4156,0)"><flowRegion
-         id="flowRegion6263"><rect
-           y="334.49579"
-           x="80.793083"
-           height="166.88406"
-           width="290.72263"
-           id="rect6265"
-           style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara6475">Add a description of the picture here by editing this text...</flowPara></flowRoot>    <flowRoot
-       transform="translate(690.74631,0)"
+       id="flowRoot6882"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion6884"><rect
+           id="rect6886"
+           width="125.51295"
+           height="106.97126"
+           x="69.887894"
+           y="148.09846"
+           style="-inkscape-font-specification:TitilliumText25L Ultra-Bold;font-family:TitilliumText25L;font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
+         id="flowPara6890">The physical evidence experienced by the participants outside of the core group</flowPara></flowRoot>    <flowRoot
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold"
+       id="flowRoot6892"
        xml:space="preserve"
-       id="flowRoot6269"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-         id="flowRegion6271"><rect
-           id="rect6273"
-           width="290.72263"
-           height="166.88406"
-           x="80.793083"
-           y="334.49579"
-           style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara6477">Add a description of the picture here by editing this text...</flowPara></flowRoot>    <flowRoot
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L;text-anchor:start;text-align:start;writing-mode:lr"
-       id="flowRoot6277"
+       transform="translate(0,170.4003)"><flowRegion
+         id="flowRegion6894"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold"
+           y="148.09846"
+           x="69.887894"
+           height="106.97126"
+           width="125.51295"
+           id="rect6896" /></flowRegion><flowPara
+         id="flowPara6902">The open activity as experienced by the participants outside of the core group, with their actions</flowPara></flowRoot>    <flowRoot
+       transform="translate(0,341.56565)"
        xml:space="preserve"
-       transform="translate(1035.3605,0)"><flowRegion
-         id="flowRegion6279"><rect
-           y="334.49579"
-           x="80.793083"
-           height="166.88406"
-           width="290.72263"
-           id="rect6281"
-           style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara6479">Add a description of the picture here by editing this text...</flowPara></flowRoot>    <text
+       id="flowRoot6904"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold"><flowRegion
+         id="flowRegion6906"><rect
+           id="rect6908"
+           width="125.51295"
+           height="106.97126"
+           x="69.887894"
+           y="148.09846"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold" /></flowRegion><flowPara
+         id="flowPara6912">The front-office of the open activity: how the core group interacts with the other participants</flowPara></flowRoot>    <flowRoot
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold"
+       id="flowRoot6914"
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="148.28452"
-       y="224.645"
-       id="text6293"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6295"
-         x="148.28452"
-         y="224.645">Add a picture here</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text6297"
-       y="224.645"
-       x="493.26614"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
-         y="224.645"
-         x="493.26614"
-         id="tspan6299"
-         sodipodi:role="line">Add a picture here</tspan></text>
-    <text
+       transform="translate(0,518.73101)"><flowRegion
+         id="flowRegion6916"><rect
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold"
+           y="148.09846"
+           x="69.887894"
+           height="106.97126"
+           width="125.51295"
+           id="rect6918" /></flowRegion><flowPara
+         id="flowPara6922">The back-office of the open activity: how the core group member interacts with each other</flowPara></flowRoot>    <flowRoot
+       transform="translate(0,678.17983)"
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="838.24786"
-       y="224.645"
-       id="text6301"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6303"
-         x="838.24786"
-         y="224.645">Add a picture here</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text6305"
-       y="224.645"
-       x="1183.2294"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
-         y="224.645"
-         x="1183.2294"
-         id="tspan6307"
-         sodipodi:role="line">Add a picture here</tspan></text>
-    <rect
-       y="552.58258"
-       x="76.031479"
-       height="177.16536"
-       width="301.18109"
-       id="rect6345"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6347"
-       width="301.18109"
-       height="177.16536"
-       x="421.01309"
-       y="552.58258" />
-    <rect
-       y="552.58258"
-       x="765.99481"
-       height="177.16536"
-       width="301.18109"
-       id="rect6349"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6351"
-       width="301.18109"
-       height="177.16536"
-       x="1110.9763"
-       y="552.58258" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6353"
-       width="301.18109"
-       height="177.16536"
-       x="76.031479"
-       y="751.18103" />
-    <rect
-       y="751.18103"
-       x="421.01309"
-       height="177.16536"
-       width="301.18109"
-       id="rect6355"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect6357"
-       width="301.18109"
-       height="177.16536"
-       x="765.99481"
-       y="751.18103" />
-    <rect
-       y="751.18103"
-       x="1110.9763"
-       height="177.16536"
-       width="301.18109"
-       id="rect6359"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    <flowRoot
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L;text-anchor:start;text-align:start;writing-mode:lr"
-       id="flowRoot6361"
-       xml:space="preserve"
-       transform="translate(1.1444092e-5,421.48028)"><flowRegion
-         id="flowRegion6363"><rect
-           y="334.49579"
-           x="80.793083"
-           height="166.88406"
-           width="290.72263"
-           id="rect6365"
-           style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara6481">Add a description of the picture here by editing this text...</flowPara></flowRoot>    <flowRoot
-       transform="translate(344.41561,421.48028)"
-       xml:space="preserve"
-       id="flowRoot6369"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-         id="flowRegion6371"><rect
-           id="rect6373"
-           width="290.72263"
-           height="166.88406"
-           x="80.793083"
-           y="334.49579"
-           style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara6483">Add a description of the picture here by editing this text...</flowPara></flowRoot>    <flowRoot
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L;text-anchor:start;text-align:start;writing-mode:lr"
-       id="flowRoot6377"
-       xml:space="preserve"
-       transform="translate(690.74632,421.48028)"><flowRegion
-         id="flowRegion6379"><rect
-           y="334.49579"
-           x="80.793083"
-           height="166.88406"
-           width="290.72263"
-           id="rect6381"
-           style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara6485">Add a description of the picture here by editing this text...</flowPara></flowRoot>    <flowRoot
-       transform="translate(1035.3605,421.48028)"
-       xml:space="preserve"
-       id="flowRoot6385"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-         id="flowRegion6387"><rect
-           id="rect6389"
-           width="290.72263"
-           height="166.88406"
-           x="80.793083"
-           y="334.49579"
-           style="-inkscape-font-specification:TitilliumText25L;font-family:TitilliumText25L;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
-         id="flowPara6487">Add a description of the picture here by editing this text...</flowPara></flowRoot>    <text
-       sodipodi:linespacing="125%"
-       id="text6393"
-       y="646.12531"
-       x="148.28453"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
-         y="646.12531"
-         x="148.28453"
-         id="tspan6395"
-         sodipodi:role="line">Add a picture here</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="493.26614"
-       y="646.12531"
-       id="text6397"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6399"
-         x="493.26614"
-         y="646.12531">Add a picture here</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text6401"
-       y="646.12531"
-       x="838.24786"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       xml:space="preserve"><tspan
-         y="646.12531"
-         x="838.24786"
-         id="tspan6403"
-         sodipodi:role="line">Add a picture here</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L"
-       x="1183.2294"
-       y="646.12531"
-       id="text6405"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6407"
-         x="1183.2294"
-         y="646.12531">Add a picture here</tspan></text>
-  </g>
+       id="flowRoot6924"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold"><flowRegion
+         id="flowRegion6926"><rect
+           id="rect6928"
+           width="125.51295"
+           height="106.97126"
+           x="69.887894"
+           y="148.09846"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Ultra-Bold" /></flowRegion><flowPara
+         id="flowPara6932">The support processes that make the work of the core group possible</flowPara></flowRoot>  </g>
 </svg>
