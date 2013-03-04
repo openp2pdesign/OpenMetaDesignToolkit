@@ -190,9 +190,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8928698"
-     inkscape:cx="301.08881"
-     inkscape:cy="374.54729"
+     inkscape:zoom="0.54829032"
+     inkscape:cx="744.09448"
+     inkscape:cy="526.18109"
      inkscape:current-layer="layer4"
      showgrid="true"
      units="mm"
@@ -240,7 +240,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -606,7 +606,7 @@
          id="tspan25287"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
          x="119.67056"
-         y="1008.9292">Name Surname - ...</tspan></text>
+         y="1008.9292">Massimo Menichinelli</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
@@ -618,7 +618,7 @@
          id="tspan25291"
          sodipodi:role="line"
          x="88.58268"
-         y="973.49603">Name of the project</tspan></text>
+         y="973.49603">MUSE Fablab</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text25293"
@@ -630,7 +630,7 @@
          x="440.89307"
          sodipodi:role="line"
          id="tspan25295"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light">http://www.google.com</tspan></text>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light">http://www.muse.it</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
@@ -642,7 +642,7 @@
          x="493.81128"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:TitilliumText25L;-inkscape-font-specification:TitilliumText25L Light"
          id="tspan25299"
-         sodipodi:role="line">Community / Place / Organization</tspan></text>
+         sodipodi:role="line">Trento / MUSE</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -722,10 +722,9 @@
            height="122.69545"
            width="185.70122"
            id="rect3380" /></flowRegion><flowPara
-         id="flowPara3382">Name:</flowPara><flowPara
-         id="flowPara3384">Surname:</flowPara><flowPara
+         id="flowPara3384">Name:</flowPara><flowPara
          id="flowPara3386">Age:</flowPara><flowPara
-         id="flowPara3388">Occupation:</flowPara></flowRoot>    <rect
+         id="flowPara3388">Occupation</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3392"
        width="192.57901"
@@ -788,10 +787,9 @@
            height="122.69545"
            x="187.35927"
            y="132.97534" /></flowRegion><flowPara
-         id="flowPara3420">Name:</flowPara><flowPara
-         id="flowPara3422">Surname:</flowPara><flowPara
+         id="flowPara3422">Name:</flowPara><flowPara
          id="flowPara3424">Age:</flowPara><flowPara
-         id="flowPara3426">Occupation:</flowPara></flowRoot>    <rect
+         id="flowPara3426">Occupation</flowPara></flowRoot>    <rect
        y="553.17206"
        x="875.57739"
        height="128.25302"
@@ -854,10 +852,9 @@
            height="122.69545"
            width="185.70122"
            id="rect3456" /></flowRegion><flowPara
-         id="flowPara3458">Name:</flowPara><flowPara
-         id="flowPara3460">Surname:</flowPara><flowPara
+         id="flowPara3460">Name:</flowPara><flowPara
          id="flowPara3462">Age:</flowPara><flowPara
-         id="flowPara3464">Occupation:</flowPara></flowRoot>    <rect
+         id="flowPara3464">Occupation</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3468"
        width="192.57901"
@@ -920,10 +917,9 @@
            height="122.69545"
            x="187.35927"
            y="132.97534" /></flowRegion><flowPara
-         id="flowPara3496">Name:</flowPara><flowPara
-         id="flowPara3498">Surname:</flowPara><flowPara
+         id="flowPara3498">Name:</flowPara><flowPara
          id="flowPara3500">Age:</flowPara><flowPara
-         id="flowPara3502">Occupation:</flowPara></flowRoot>    <rect
+         id="flowPara3502">Occupation</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect6189"
        width="192.57901"
@@ -985,10 +981,9 @@
            height="122.69545"
            x="187.35927"
            y="132.97534" /></flowRegion><flowPara
-         id="flowPara3210">Name:</flowPara><flowPara
-         id="flowPara3212">Surname:</flowPara><flowPara
+         id="flowPara3212">Name:</flowPara><flowPara
          id="flowPara3214">Age:</flowPara><flowPara
-         id="flowPara3216">Occupation:</flowPara></flowRoot>    <rect
+         id="flowPara3216">Occupation</flowPara></flowRoot>    <rect
        y="131.10233"
        x="530.10541"
        height="128.25302"
@@ -1051,10 +1046,9 @@
            height="122.69545"
            width="185.70122"
            id="rect3266" /></flowRegion><flowPara
-         id="flowPara3268">Name:</flowPara><flowPara
-         id="flowPara3270">Surname:</flowPara><flowPara
+         id="flowPara3270">Name:</flowPara><flowPara
          id="flowPara3272">Age:</flowPara><flowPara
-         id="flowPara3274">Occupation:</flowPara></flowRoot>    <rect
+         id="flowPara3274">Occupation</flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3278"
        width="192.57901"
@@ -1117,10 +1111,9 @@
            height="122.69545"
            x="187.35927"
            y="132.97534" /></flowRegion><flowPara
-         id="flowPara3306">Name:</flowPara><flowPara
-         id="flowPara3308">Surname:</flowPara><flowPara
+         id="flowPara3308">Name:</flowPara><flowPara
          id="flowPara3310">Age:</flowPara><flowPara
-         id="flowPara3312">Occupation:</flowPara></flowRoot>    <rect
+         id="flowPara3312">Occupation</flowPara></flowRoot>    <rect
        y="131.10233"
        x="1221.0492"
        height="128.25302"
@@ -1183,10 +1176,9 @@
            height="122.69545"
            width="185.70122"
            id="rect3342" /></flowRegion><flowPara
-         id="flowPara3344">Name:</flowPara><flowPara
-         id="flowPara3346">Surname:</flowPara><flowPara
+         id="flowPara3346">Name:</flowPara><flowPara
          id="flowPara3348">Age:</flowPara><flowPara
-         id="flowPara3350">Occupation:</flowPara></flowRoot>    <flowRoot
+         id="flowPara3350">Occupation</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6245"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:TitilliumText25L;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:TitilliumText25L;font-stretch:normal;font-variant:normal"><flowRegion
