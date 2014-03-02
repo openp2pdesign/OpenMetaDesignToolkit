@@ -17,18 +17,8 @@ Instructions
 8. You can find links to open source icons under the folder **resources/icons** for your System Map
 
 
-Include the toolkit on your GitHub project
-------------------------------------------
-You can download the toolkit and copy on your project folder (and **this is the best way of including the toolkit in your project**), or you can do a little hack and fork the toolkit to a new repository for your account, rename it and start developing your project.
-
-1. Go to [https://github.com/OpenP2PDesignOrg/OpenMetaDesignToolkit](https://github.com/](OpenP2PDesignOrg/OpenMetaDesignToolkit) and click on **Fork**
-2. Then go to your new forked repository on GitHub, and click on **Settings**
-3. Rename your repository and edit its description, this will be your new repository with the Open MetaDesign toolkit already included!
-
 License
 --------
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
-
-The Business Model Canvas was originally developed by [BusinesModelGeneration.com](http://www.businessmodelgeneration.com) and released under a [CC-BY-SA license](http://creativecommons.org/licenses/by-sa/2.0/)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 The [Titillium](http://www.fontsquirrel.com/fonts/TitilliumText) font is licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL)
