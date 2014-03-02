@@ -1,1 +1,0 @@
-A great list of free icons is available for download at [http://thenounproject.com/] (http://thenounproject.com/)
