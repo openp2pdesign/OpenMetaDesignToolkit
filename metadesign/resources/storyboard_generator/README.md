@@ -1,1 +1,0 @@
-A great for generating comics for the storyboard is StripThis! and is available for download at [http://www.kesiev.com/stripthis/] (http://www.kesiev.com/stripthis/)
