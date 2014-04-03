@@ -486,9 +486,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.65179895"
-     inkscape:cx="526.18109"
-     inkscape:cy="372.04724"
+     inkscape:zoom="1.3719282"
+     inkscape:cx="756.695"
+     inkscape:cy="203.12667"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
@@ -536,7 +536,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1178,7 +1178,7 @@
     <g
        id="layer1-8"
        inkscape:label="Layer 1"
-       transform="translate(938.42817,1015.0795)">
+       transform="translate(936.94691,1022.1661)">
       <g
          transform="matrix(0.9875019,0,0,0.9333518,-323.90064,-271.87688)"
          id="BY">
@@ -1235,15 +1235,121 @@
     <text
        sodipodi:linespacing="125%"
        id="text22946"
-       y="1024.7864"
-       x="830.36731"
+       y="1031.8729"
+       x="828.88605"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan22948"
-         x="830.36731"
-         y="1024.7864">http://openmetadesign.org/</tspan></text>
-  </g>
+         x="828.88605"
+         y="1031.8729">http://openmetadesign.org/</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3893"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:PT Sans;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:PT Sans;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3895"><rect
+           id="rect3897"
+           width="238.63525"
+           height="58.241436"
+           x="35.563354"
+           y="136.425" /></flowRegion><flowPara
+         id="flowPara3899"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3901"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       transform="translate(1.870571,308.26766)"><flowRegion
+         id="flowRegion3903"><rect
+           id="rect3905"
+           width="238.63525"
+           height="73.703766"
+           x="35.563354"
+           y="136.425"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Titillium Web;-inkscape-font-specification:Titillium Web" /></flowRegion><flowPara
+         id="flowPara3907">Describe the activity</flowPara></flowRoot>    <flowRoot
+       transform="translate(249.9743,308.26766)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       id="flowRoot3909"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3911"><rect
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+           y="136.425"
+           x="35.563354"
+           height="73.703766"
+           width="238.63525"
+           id="rect3913" /></flowRegion><flowPara
+         id="flowPara3915">Who is doing the activity? Who is the subject of the activity? It could be one person or more people.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3917"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       transform="translate(496.85613,308.26766)"><flowRegion
+         id="flowRegion3919"><rect
+           id="rect3921"
+           width="238.63525"
+           height="73.703766"
+           x="35.563354"
+           y="136.425"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Titillium Web;-inkscape-font-specification:Titillium Web" /></flowRegion><flowPara
+         id="flowPara3923">What is the subject working on in the activity? What is the (tangible or intangible) object that the activity is working on?</flowPara></flowRoot>    <flowRoot
+       transform="translate(743.73796,308.26766)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       id="flowRoot3925"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3927"><rect
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+           y="136.425"
+           x="35.563354"
+           height="73.703766"
+           width="238.63525"
+           id="rect3929" /></flowRegion><flowPara
+         id="flowPara3931">Why is the subject working on the object? What is the purpose of the activity? What is the outcome of the activity?</flowPara></flowRoot>    <flowRoot
+       transform="translate(1.870571,635.03819)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       id="flowRoot3933"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3935"><rect
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+           y="136.425"
+           x="35.563354"
+           height="73.703766"
+           width="238.63525"
+           id="rect3937" /></flowRegion><flowPara
+         id="flowPara3939">What is the subject using for working in the activity on the object? Which are the physical and immaterial tools, knowledge and expertise needed for the activity?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3941"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       transform="translate(249.9743,635.03819)"><flowRegion
+         id="flowRegion3943"><rect
+           id="rect3945"
+           width="238.63525"
+           height="73.703766"
+           x="35.563354"
+           y="136.425"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Titillium Web;-inkscape-font-specification:Titillium Web" /></flowRegion><flowPara
+         id="flowPara3947">Which are the rules that the subject must follow when working in the activity?</flowPara></flowRoot>    <flowRoot
+       transform="translate(496.85613,635.03819)"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       id="flowRoot3949"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3951"><rect
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+           y="136.425"
+           x="35.563354"
+           height="73.703766"
+           width="238.63525"
+           id="rect3953" /></flowRegion><flowPara
+         id="flowPara3955">How is the activity organized? Which are the main roles that can be adopted in the activity?</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3957"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Titillium Web;-inkscape-font-specification:Titillium Web"
+       transform="translate(743.73796,635.03819)"><flowRegion
+         id="flowRegion3959"><rect
+           id="rect3961"
+           width="238.63525"
+           height="73.703766"
+           x="35.563354"
+           y="136.425"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Titillium Web;-inkscape-font-specification:Titillium Web" /></flowRegion><flowPara
+         id="flowPara3963">Which is the bigger community where the activity is taking place? Which is the social context of the activity?</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
